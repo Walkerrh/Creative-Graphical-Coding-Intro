@@ -5,9 +5,9 @@ Intro to Creative Coding: Create Graphic Objects
 Inspiration from course: https://www.domestika.org/en/courses/4034-intro-to-creative-coding-create-graphic-objects 
 
 Artists:
-* A. Michael Noll
-* Frieder Nake
-* Georg Nees
+* [A. Michael Noll](http://dada.compart-bremen.de/item/agent/16) (link may not work)
+* [Frieder Nake](http://dada.compart-bremen.de/item/agent/68) (link may not work)
+* [Georg Nees](http://dada.compart-bremen.de/item/agent/15) (link may not work)
 * [Edward Zajec](http://www.edwardzajec.com/)
 * [Manfred Mohr](https://www.galeriecharlot.com/fr/51/Manfred-Mohr)
 * [Auro Lecci](https://aurolecci.com/)
@@ -19,7 +19,7 @@ BOOKS:
 
 EXTRA BOOKS:
 * [Processing. A Programming Handbook for Visual Designers and Artists | Casey Reas, Ben Fry](https://mitpress.mit.edu/9780262028288/)
-* [FORM+CODE. In Design, Art, and Architecture | Casey Reas, Chandler McWilliams](http://formandcode.com/)
+* [FORM+CODE. In Design, Art, and Architecture | Casey Reas, Chandler McWilliams](http://formandcode.com/) (link may not work)
 * [Generative Design | Benedikt Gross, Hartmut Bohnacker, Julia Laub, Claudius Lazzeroni](http://www.generative-gestaltung.de/2/#abo)
 * [Code as Creative Medium | Golan Levin, Tega Brain](https://mitpress.mit.edu/9780262542043/)
 * [A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art | (leader) Margit Rosen](http://new-tendencies.org/)
