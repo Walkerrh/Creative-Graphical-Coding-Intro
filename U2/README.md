@@ -5,6 +5,8 @@
 
 ![polygon](https://github.com/Walkerrh/Intro-to-Creative-Coding-Create-Graphic-Objects/assets/57651882/f52434e1-ac35-43e1-b513-75a95c9e85dc)
 
+![face](https://github.com/Walkerrh/Intro-to-Creative-Coding-Create-Graphic-Objects/assets/57651882/1194d6ed-68ff-4903-a3c6-00d396606afe)
+
 ![download](https://github.com/Walkerrh/Intro-to-Creative-Coding-Create-Graphic-Objects/assets/57651882/7855eb4a-ef56-419a-a82f-75955dabf5f8)
 
 
