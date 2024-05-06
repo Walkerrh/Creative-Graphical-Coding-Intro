@@ -39,5 +39,5 @@ Online Processing Tutorials
 * [Programming Design Systems](https://www.programmingdesignsystems.com/)
 
 Computer art
-[The ReCode Project](http://www.recodeproject.com)
-[“Computer & computer art history”](https://github.com/v3ga/computer_history)
+* [The ReCode Project](http://www.recodeproject.com)
+* [“Computer & computer art history”](https://github.com/v3ga/computer_history)
