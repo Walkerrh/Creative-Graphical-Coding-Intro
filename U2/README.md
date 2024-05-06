@@ -1,3 +1,7 @@
+
+![download](https://github.com/Walkerrh/Intro-to-Creative-Coding-Create-Graphic-Objects/assets/57651882/7855eb4a-ef56-419a-a82f-75955dabf5f8)
+
+
 Here is the main page of the platform.
 * [p5.js](https://p5js.org/)
 
