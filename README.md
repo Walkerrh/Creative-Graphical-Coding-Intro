@@ -18,9 +18,9 @@ BOOKS:
 * [HOLO 2: IF/THEN](https://www.holo.mg/shop/holo-2-2/)
 
 EXTRA BOOKS:
-* [Processing. A Programming Handbook for Visual Designers and Artists | Casey Reas, Ben Fry]()
-* [FORM+CODE. In Design, Art, and Architecture | Casey Reas, Chandler McWilliams]()
-* [Generative Design | Benedikt Gross, Hartmut Bohnacker, Julia Laub, Claudius Lazzeroni]()
-* [Code as Creative Medium | Golan Levin, Tega Brain]()
-* [A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art | (leader) Margit Rosen]()
-* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10 | Collective]()
+* [Processing. A Programming Handbook for Visual Designers and Artists | Casey Reas, Ben Fry](https://mitpress.mit.edu/9780262028288/)
+* FORM+CODE. In Design, Art, and Architecture | Casey Reas, Chandler McWilliams
+* [Generative Design | Benedikt Gross, Hartmut Bohnacker, Julia Laub, Claudius Lazzeroni](http://www.generative-gestaltung.de/2/#abo)
+* [Code as Creative Medium | Golan Levin, Tega Brain](https://mitpress.mit.edu/9780262542043/)
+* [A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art | (leader) Margit Rosen](http://new-tendencies.org/)
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10 | Collective](https://reas.com/10_print/)
