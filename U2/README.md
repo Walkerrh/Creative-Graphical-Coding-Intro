@@ -23,8 +23,19 @@ Read these two articles for more information on including color in your generati
 You will find on this page all the drawings contained in the book Generative Design with the code associated with them. You can reproduce the sketches directly in the browser with the p5.js web editor or locally on your computer by downloading the codes.
 * [The website](http://www.generative-gestaltung.de/2/)
 
+Read more about variables with this article written by Mark Webster.
+* [“Variables”](https://designingprograms.bitbucket.io/pages/04_variables.html)
 
+Here you will find some online code samples.
+* [“M1. Random and noise » | Generative Design](http://www.generative-gestaltung.de/2/)
 
+This article tells you several ways to avoid and fix errors
+* [A Field Guide to Debugging](https://p5js.org/learn/debugging.html)
 
+Here you will find the drawings of the faces made by Bruno Munari in the book Design as Art 
+* [Image](https://stream.studieau.co/post/57582069103/design-is-fine-bruno-munari-faces-from-his)
+
+Here you will find all the sketches I have made at this unit.
+* [DMSTK_U2](https://editor.p5js.org/domestika_julien/collections/JCPrqQSle)
 
 * []()
