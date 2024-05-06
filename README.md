@@ -24,3 +24,20 @@ EXTRA BOOKS:
 * [Code as Creative Medium | Golan Levin, Tega Brain](https://mitpress.mit.edu/9780262542043/)
 * [A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art | (leader) Margit Rosen](http://new-tendencies.org/)
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10 | Collective](https://reas.com/10_print/)
+
+
+Twitter feeds from Raphaël de Courville and Casey Reas:
+* [Thread 1](https://twitter.com/sableraph/status/1427649830491496448)
+* [Thread 2](https://twitter.com/REAS/status/1473041398962159617)
+
+OpenProcessing
+* [The site](https://openprocessing.org/)
+* [takawo](https://openprocessing.org/user/6533?view=sketches&o=48)
+
+Online Processing Tutorials
+* [Designing Programs](https://designingprograms.bitbucket.io/)
+* [Programming Design Systems](https://www.programmingdesignsystems.com/)
+
+Computer art
+[The ReCode Project](http://www.recodeproject.com)
+[“Computer & computer art history”](https://github.com/v3ga/computer_history)
