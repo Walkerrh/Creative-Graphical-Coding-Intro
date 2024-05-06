@@ -3,6 +3,8 @@
 
 ![polygon](https://github.com/Walkerrh/Intro-to-Creative-Coding-Create-Graphic-Objects/assets/57651882/33712bf7-ef12-49de-9967-d53ec7a95787)
 
+![polygon](https://github.com/Walkerrh/Intro-to-Creative-Coding-Create-Graphic-Objects/assets/57651882/f52434e1-ac35-43e1-b513-75a95c9e85dc)
+
 ![download](https://github.com/Walkerrh/Intro-to-Creative-Coding-Create-Graphic-Objects/assets/57651882/7855eb4a-ef56-419a-a82f-75955dabf5f8)
 
 
