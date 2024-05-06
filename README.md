@@ -19,7 +19,7 @@ BOOKS:
 
 EXTRA BOOKS:
 * [Processing. A Programming Handbook for Visual Designers and Artists | Casey Reas, Ben Fry](https://mitpress.mit.edu/9780262028288/)
-* FORM+CODE. In Design, Art, and Architecture | Casey Reas, Chandler McWilliams
+* [FORM+CODE. In Design, Art, and Architecture | Casey Reas, Chandler McWilliams](http://formandcode.com/)
 * [Generative Design | Benedikt Gross, Hartmut Bohnacker, Julia Laub, Claudius Lazzeroni](http://www.generative-gestaltung.de/2/#abo)
 * [Code as Creative Medium | Golan Levin, Tega Brain](https://mitpress.mit.edu/9780262542043/)
 * [A Little-Known Story about a Movement, a Magazine, and the Computer's Arrival in Art | (leader) Margit Rosen](http://new-tendencies.org/)
